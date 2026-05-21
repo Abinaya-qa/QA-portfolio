@@ -2,7 +2,7 @@
 
 **Feature:** DNS Settings Management
 **URL:** https://www.namecheap.com/myaccount/domains/
-**Tested by:** Abinaya
+**Prepared by:** Abinaya
 **Test Types:** Positive, Negative, Edge
 
 ---
