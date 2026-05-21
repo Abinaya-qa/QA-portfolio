@@ -1,8 +1,11 @@
 # DNS Settings Management — Test Cases
 
 **Feature:** DNS Settings Management
+
 **URL:** https://www.namecheap.com/myaccount/domains/
+
 **Prepared by:** Abinaya
+
 **Test Types:** Positive, Negative, Edge
 
 ---
