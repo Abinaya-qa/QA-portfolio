@@ -21,8 +21,8 @@
   2. Type an available domain name e.g. "testdomain12345.com"
   3. Click Search
 - **Expected Result:** Domain is shown as "Available" with a price and an "Add to Cart" button
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
+- **Actual Result:** Domain is shown as "Available" with a price and an "Add to Cart" button
+- **Status:** Pass
 
 ---
 
@@ -34,8 +34,8 @@
   2. Type a well-known taken domain e.g. "google.com"
   3. Click Search
 - **Expected Result:** Domain is shown as "Unavailable". Alternative suggestions are displayed.
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
+- **Actual Result:** Domain is shown as Registered with the corresponding registration year. Alternative suggestions such as Make offer, other available TLDs are displayed.
+- **Status:** Pass
 
 ---
 
@@ -47,9 +47,8 @@
   2. Leave the search field empty
   3. Click Search
 - **Expected Result:** Validation error is shown. Search is not executed.
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
-
+- **Actual Result:** A message is displayed as: “Please fill out this field” and search is not executed.
+- **Status:** Pass
 ---
 
 ## Format 2 — Tabular (All Test Cases)
