@@ -1,11 +1,17 @@
 # Bug Report — BUG-002
 
 **Bug ID:** BUG-002
+
 **Title:** No confirmation message shown after saving DNS record
+
 **Reported by:** Abinaya
+
 **Date:** May 2026
+
 **Status:** New
+
 **Severity:** Minor
+
 **Priority:** Medium
 
 ---
