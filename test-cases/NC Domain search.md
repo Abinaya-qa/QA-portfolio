@@ -3,7 +3,7 @@
 
 **Feature:** Domain Search  
 **URL:** https://www.namecheap.com/domains/registration/results/?domain=  
-**Prepared by:** QA Portfolio  
+**Prepared by:** Abinaya 
 **Test Types:** Positive, Negative, Edge  
 
 ---
