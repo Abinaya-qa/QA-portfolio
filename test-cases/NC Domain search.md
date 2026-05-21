@@ -18,7 +18,7 @@
 - **Precondition:** User is on Namecheap homepage or domain search page
 - **Steps:**
   1. Go to https://www.namecheap.com
-  2. Type an available domain name e.g. "testdomain12345.com"
+  2. Type an available domain name e.g. "testdomain987.com"
   3. Click Search
 - **Expected Result:** Domain is shown as "Available" with a price and an "Add to Cart" button
 - **Actual Result:** Domain is shown as "Available" with a price and an "Add to Cart" button
