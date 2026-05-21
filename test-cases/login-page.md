@@ -21,8 +21,8 @@
   3. Enter correct password
   4. Click Sign In
 - **Expected Result:** User is redirected to the account dashboard
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
+- **Actual Result:** User is redirected to the account dashboard
+- **Status:** Pass
 
 ---
 
@@ -35,8 +35,8 @@
   3. Enter an incorrect password
   4. Click Sign In
 - **Expected Result:** Error message is displayed — "Incorrect username or password". User is not logged in.
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
+- **Actual Result:** The password does not match the user account or the account does not exist. Please verify both the user name and password and try again.
+- **Status:** Pass
 
 ---
 
@@ -49,9 +49,8 @@
   3. Enter wrong password
   4. Repeat step 3 five times in a row
 - **Expected Result:** Account is temporarily locked. A lockout message is displayed.
-- **Actual Result:** *(to be filled after execution)*
-- **Status:** *(Pass / Fail / Blocked)*
-
+- **Actual Result:** Your account has been locked for 24 hours for three consecutive failed password or username entry attempts. Please use Password Reset option. Once the password is reset your account will be unlocked automatically.
+- **Status:** Pass
 ---
 
 ## Format 2 — Tabular (All Test Cases)
