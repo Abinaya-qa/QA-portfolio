@@ -2,8 +2,8 @@
 
 ## Page details
 - **URL:** https://www.namecheap.com/myaccount/domains/
-- **Prepared by:** Abinaya
-
+- **Tested by:** Abinaya
+- **Date:** May 2026
 
 ---
 
