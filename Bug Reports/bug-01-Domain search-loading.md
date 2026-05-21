@@ -2,11 +2,17 @@
 # Bug Report — BUG-001
 
 **Bug ID:** BUG-001
+
 **Title:** No loading indicator shown during domain search
+
 **Reported by:** Abinaya
+
 **Date:** May 2026
+
 **Status:** New
+
 **Severity:** Minor
+
 **Priority:** Low
 
 ---
