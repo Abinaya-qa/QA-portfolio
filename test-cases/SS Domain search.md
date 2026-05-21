@@ -2,8 +2,11 @@
 # Spaceship Domain Search — Test Cases
 
 **Feature:** Domain Search
+
 **URL:** https://www.spaceship.com/domains/
+
 **Prepared by:** Abinaya
+
 **Test Types:** Positive, Negative, Edge
 
 ---
