@@ -2,9 +2,8 @@
 
 ## Page details
 - **URL:** https://www.namecheap.com/myaccount/domains/
-- **Tested by:** Abinaya
-- **Date:** May 2026
-
+- **Prepared by:** Abinaya
+  
 ---
 
 ## TC-01: Add a valid A record
