@@ -3,7 +3,7 @@
 
 **Feature:** Domain Search
 **URL:** https://www.spaceship.com/domains/
-**Prepared by:** QA Portfolio
+**Prepared by:** Abinaya
 **Test Types:** Positive, Negative, Edge
 
 ---
