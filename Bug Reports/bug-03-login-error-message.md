@@ -1,11 +1,17 @@
 # Bug Report — BUG-003
 
 **Bug ID:** BUG-003
+
 **Title:** Login page shows generic error message for wrong password
+
 **Reported by:** Abinaya
+
 **Date:** May 2026
+
 **Status:** New
+
 **Severity:** Minor
+
 **Priority:** Medium
 
 ---
