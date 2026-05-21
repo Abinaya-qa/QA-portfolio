@@ -2,8 +2,11 @@
 # Namecheap Domain Search — Test Cases
 
 **Feature:** Domain Search  
-**URL:** https://www.namecheap.com/domains/registration/results/?domain=  
+
+**URL:** https://www.namecheap.com/domains/registration/results/?domain= 
+
 **Prepared by:** Abinaya 
+
 **Test Types:** Positive, Negative, Edge  
 
 ---
