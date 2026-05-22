@@ -54,18 +54,7 @@ testing — I already know what breaks, where it breaks, and why.
 | `test-cases/` | Manual test cases for Namecheap and Spaceship flows | 🔄 In progress |
 | `bug-reports/` | Bug reports written in standard QA format | 🔄 In progress |
 | `api-testing/` | Postman practice notes and request/response logs | 🔄 In progress |
-| `learning-notes/` | Notes on SDLC, STLC, testing types, and techniques | 🔄 In progress |
 
----
-
-## Flows being tested
-
-| Flow | Status |
-|---|---|
-| Namecheap login page | ✅ Complete |
-| Domain search | 🔄 In progress |
-| DNS settings management | 🔄 In progress |
-| Spaceship signup flow | 🔄 In progress |
 
 ---
 
