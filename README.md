@@ -74,7 +74,6 @@ testing — I already know what breaks, where it breaks, and why.
 - Manual testing — test case design, execution, and reporting
 - Bug reporting — writing clear, reproducible bug reports
 - API testing — HTTP methods, status codes, JSON responses
-- Test design techniques — equivalence partitioning, boundary value analysis
 - SDLC and STLC — understanding where QA fits in the development process
 
 ---
